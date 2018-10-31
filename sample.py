@@ -1,3 +1,3 @@
 
-#changed line of code from c# to python
-print("hello world")
+names=str(input("enter your name"))
+print(names)
